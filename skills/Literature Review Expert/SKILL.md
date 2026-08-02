@@ -743,3 +743,299 @@ its relevance to the user's question is explained
 Only then should its findings contribute to the final literature synthesis.
 
 Scientific honesty always takes priority over producing a confident answer.
+
+---
+
+# Evidence Synthesis Engine
+
+The objective of a literature review is not to summarize individual studies.
+
+The objective is to synthesize the collective scientific evidence.
+
+Always integrate findings across multiple studies before drawing conclusions.
+
+Never present papers as isolated pieces of information unless only a single study exists.
+
+---
+
+# Synthesis Philosophy
+
+Scientific understanding emerges from the body of evidence rather than from individual publications.
+
+Every conclusion should represent the balance of available evidence.
+
+Individual studies contribute to evidence.
+
+They do not define evidence by themselves.
+
+---
+
+# Evidence Integration
+
+Group publications according to scientific meaning rather than publication year.
+
+Possible synthesis dimensions include:
+
+Research questions
+
+Ecological processes
+
+Methodological approaches
+
+Taxonomic groups
+
+Geographic regions
+
+Temporal scales
+
+Management implications
+
+Analytical frameworks
+
+Conservation outcomes
+
+Disease systems
+
+Behavioral mechanisms
+
+Landscape characteristics
+
+Avoid chronological summaries whenever thematic synthesis is possible.
+
+---
+
+# Identify Scientific Consensus
+
+Determine whether the available literature demonstrates:
+
+Strong consensus
+
+Moderate consensus
+
+Mixed evidence
+
+Insufficient evidence
+
+Highly conflicting evidence
+
+Explain why each classification was assigned.
+
+Consensus should emerge from methodological quality and consistency rather than publication counts.
+
+---
+
+# Analyze Conflicting Findings
+
+Whenever studies disagree, investigate possible explanations before reporting disagreement.
+
+Possible explanations include:
+
+Differences in study design
+
+Differences in sample size
+
+Differences in sampling effort
+
+Detection probability
+
+Geographic variation
+
+Habitat differences
+
+Species ecology
+
+Seasonality
+
+Climate
+
+Human disturbance
+
+Statistical methodology
+
+Model assumptions
+
+Analytical scale
+
+Temporal scale
+
+Data quality
+
+Publication bias
+
+Do not simply state that findings conflict.
+
+Explain why conflict may exist.
+
+---
+
+# Weight Evidence
+
+Not every study contributes equally.
+
+Assign greater weight to studies that demonstrate:
+
+Robust methodology
+
+Adequate sample size
+
+Transparent reporting
+
+Appropriate statistical analyses
+
+Independent replication
+
+Strong internal validity
+
+High external validity
+
+Long-term datasets
+
+Broad geographic coverage
+
+Meta-analyses and systematic reviews
+
+Assign lower weight to studies with important methodological limitations.
+
+---
+
+# Identify Patterns
+
+Look for recurring patterns across the literature.
+
+Possible patterns include:
+
+Repeated ecological mechanisms
+
+Consistent behavioral responses
+
+Repeated conservation outcomes
+
+Recurring methodological weaknesses
+
+Frequently reported limitations
+
+Common analytical approaches
+
+Emerging scientific trends
+
+Shifts in research priorities
+
+Explain patterns rather than merely listing them.
+
+---
+
+# Knowledge Gap Analysis
+
+Identify knowledge gaps explicitly.
+
+Classify them whenever possible.
+
+Taxonomic gaps
+
+Geographic gaps
+
+Temporal gaps
+
+Methodological gaps
+
+Analytical gaps
+
+Data gaps
+
+Scale gaps
+
+Conservation gaps
+
+Policy gaps
+
+Management gaps
+
+Explain why each gap matters scientifically.
+
+Do not assume that an understudied topic automatically represents a meaningful knowledge gap.
+
+Differentiate between:
+
+lack of studies
+
+poor quality evidence
+
+contradictory evidence
+
+insufficient replication
+
+missing methodology
+
+limited geographic coverage
+
+---
+
+# Research Opportunities
+
+Whenever appropriate propose future research directions.
+
+Recommendations should emerge logically from the evidence.
+
+Avoid generic suggestions such as:
+
+"More studies are needed."
+
+Instead explain:
+
+Which question remains unanswered.
+
+Which methods should be used.
+
+Which species should be studied.
+
+Which regions require investigation.
+
+Which analytical approaches could improve understanding.
+
+Which datasets are currently missing.
+
+---
+
+# Narrative Writing
+
+Write literature reviews as connected scientific narratives.
+
+Every paragraph should integrate multiple studies.
+
+Avoid writing:
+
+Author A found...
+
+Author B found...
+
+Author C found...
+
+Instead write:
+
+"The majority of telemetry studies indicate that habitat selection is primarily influenced by prey availability, although several studies conducted in fragmented agricultural landscapes suggest that anthropogenic disturbance can override prey-driven habitat preferences."
+
+Always prioritize synthesis over sequential summaries.
+
+---
+
+# Completion Criteria
+
+A literature review is complete only when it includes:
+
+Current scientific understanding
+
+Areas of agreement
+
+Areas of disagreement
+
+Methodological limitations
+
+Knowledge gaps
+
+Research opportunities
+
+Evidence strength
+
+Remaining uncertainty
+
+The final product should resemble the literature review section of a high-quality review paper rather than an annotated bibliography.
