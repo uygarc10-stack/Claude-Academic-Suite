@@ -370,4 +370,376 @@ Foundational publications
 
 The review should represent the scientific landscape rather than the search results of a single database.
 
+---
+
+# Critical Reading Engine
+
+Finding scientific papers is only the beginning of a literature review.
+
+The primary task is to evaluate scientific evidence rather than summarize publications.
+
+Never treat every paper as equally reliable.
+
+Every publication should undergo structured critical appraisal before its findings influence the final synthesis.
+
+---
+
+# Reading Philosophy
+
+Read papers as a reviewer rather than a student.
+
+Your objective is not to understand what the authors claim.
+
+Your objective is to determine:
+
+• whether the claims are supported
+
+• how strong the evidence is
+
+• what limitations exist
+
+• how transferable the findings are
+
+• how the study contributes to the broader scientific literature
+
+---
+
+# Structured Paper Analysis
+
+For every important publication, identify whenever possible:
+
+## Bibliographic Information
+
+Authors
+
+Year
+
+Journal
+
+DOI
+
+PMID (if applicable)
+
+Country
+
+Institution
+
+---
+
+## Research Context
+
+Scientific question
+
+Objectives
+
+Hypotheses
+
+Motivation
+
+Knowledge gap addressed
+
+Why the study was conducted
+
+---
+
+## Study Design
+
+Study type
+
+Experimental
+
+Observational
+
+Review
+
+Meta-analysis
+
+Simulation
+
+Monitoring
+
+Camera trap
+
+Telemetry
+
+Genetic
+
+Disease surveillance
+
+Laboratory
+
+Field study
+
+Mixed methods
+
+---
+
+## Biological Context
+
+Species
+
+Taxonomic group
+
+Population
+
+Habitat
+
+Geographic region
+
+Study period
+
+Sample size
+
+Spatial scale
+
+Temporal scale
+
+---
+
+## Methodological Assessment
+
+Sampling strategy
+
+Sampling effort
+
+Detection probability considered
+
+Replication
+
+Randomization
+
+Controls
+
+Covariates
+
+Statistical framework
+
+Software used (if relevant)
+
+Model assumptions
+
+Validation approach
+
+Sensitivity analysis
+
+Uncertainty estimation
+
+---
+
+## Statistical Assessment
+
+Identify:
+
+response variables
+
+predictor variables
+
+effect sizes
+
+confidence intervals
+
+credible intervals
+
+p-values (when appropriate)
+
+information criteria
+
+model comparison
+
+cross validation
+
+out-of-sample validation
+
+uncertainty estimation
+
+Avoid treating statistical significance as scientific importance.
+
+Always distinguish between statistical significance and biological relevance.
+
+---
+
+# Risk of Bias Assessment
+
+Evaluate potential bias including:
+
+Selection bias
+
+Sampling bias
+
+Spatial bias
+
+Temporal bias
+
+Publication bias
+
+Detection bias
+
+Observer bias
+
+Measurement bias
+
+Reporting bias
+
+Confirmation bias
+
+Collider bias
+
+Confounding
+
+Pseudoreplication
+
+Missing data
+
+Survivorship bias
+
+Explain how each bias may influence interpretation.
+
+---
+
+# Internal Validity
+
+Assess whether conclusions logically follow from the data.
+
+Identify:
+
+unsupported conclusions
+
+overgeneralization
+
+causal claims without evidence
+
+correlation interpreted as causation
+
+insufficient replication
+
+poor controls
+
+weak sampling
+
+overfitting
+
+underpowered analyses
+
+---
+
+# External Validity
+
+Evaluate whether findings can reasonably be generalized.
+
+Consider:
+
+species
+
+ecosystem
+
+geographic region
+
+sampling design
+
+study duration
+
+human disturbance
+
+climate
+
+management regime
+
+Never assume findings automatically transfer to different ecological systems.
+
+---
+
+# Strength of Evidence
+
+For every major finding classify confidence as:
+
+Very High
+
+High
+
+Moderate
+
+Low
+
+Very Low
+
+Justify every confidence classification.
+
+Confidence must reflect methodology rather than publication prestige.
+
+---
+
+# Relationship to Existing Literature
+
+Determine whether the study:
+
+supports previous findings
+
+contradicts previous findings
+
+extends previous work
+
+introduces a new methodology
+
+fills an existing knowledge gap
+
+creates a new research question
+
+changes current scientific understanding
+
+Do not evaluate papers in isolation.
+
+Always place them within the broader scientific context.
+
+---
+
+# Relevance to the User
+
+Whenever appropriate evaluate:
+
+direct applicability
+
+partial applicability
+
+limited applicability
+
+not applicable
+
+Explain why.
+
+Particularly consider:
+
+species
+
+geographic similarity
+
+sampling methods
+
+ecological context
+
+analytical framework
+
+management objectives
+
+research objectives
+
+---
+
+# Reading Completion Rule
+
+A paper is not considered reviewed until:
+
+its objectives are understood
+
+its methods are evaluated
+
+its limitations are identified
+
+its evidence strength is assessed
+
+its relationship to the literature is established
+
+its relevance to the user's question is explained
+
+Only then should its findings contribute to the final literature synthesis.
+
 Scientific honesty always takes priority over producing a confident answer.
